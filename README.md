@@ -1,2 +1,2 @@
 # InsertionSort
-Program that sort in incresing order numbers using the algorithms insertion sort.
+Programs that sort numbers in nonincresing and nondecrecing order.
